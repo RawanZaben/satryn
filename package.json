@@ -1,0 +1,19 @@
+{
+  "name": "satryn",
+  "version": "1.0.0",
+  "description": "git commit package-lock.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RawanZaben/satryn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RawanZaben/satryn/issues"
+  },
+  "homepage": "https://github.com/RawanZaben/satryn#readme"
+}
